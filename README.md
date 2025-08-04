@@ -62,5 +62,5 @@ README.md
 ```
 
 ---
-© 2025 Lewis Vargas
+© 2025 Lewisv4
 # portafolio_react
