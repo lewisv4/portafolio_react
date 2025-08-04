@@ -62,5 +62,9 @@ README.md
 ```
 
 ---
+<<<<<<< HEAD
 © 2025 Luis Carlos Rodriguez Erazo
+=======
+© 2025 Lewisv4
+>>>>>>> f11714aae3b272ff9a42d703f48b141769f54078
 # portafolio_react
