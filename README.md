@@ -1,4 +1,4 @@
-# Portafolio Web - Lewis Vargas
+# Portafolio Web - Luis Carlos Rodriguez Erazo
 
 Este proyecto es un portafolio profesional desarrollado con **React**, preparado para ser desplegado fácilmente en [Vercel](https://vercel.com) o GitHub Pages.
 
@@ -62,5 +62,5 @@ README.md
 ```
 
 ---
-© 2025 Lewis Vargas
+© 2025 Luis Carlos Rodriguez Erazo
 # portafolio_react
